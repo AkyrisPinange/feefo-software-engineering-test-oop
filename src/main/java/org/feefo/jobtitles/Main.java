@@ -1,6 +1,5 @@
+package org.feefo.jobtitles;
 
-
-import org.feefo.jobtitles.Normalizer;
 
 import java.util.Arrays;
 import java.util.List;
