@@ -10,7 +10,7 @@ public class Normalizer {
     private final Map<String, Double> titles;
 
     public Normalizer(List<String> normalizedTitles) {
-        titles = new HashMap<String, Double>();
+        titles = new HashMap<>();
         for (String title : normalizedTitles) {
             titles.put(title, 0.0);
         }
