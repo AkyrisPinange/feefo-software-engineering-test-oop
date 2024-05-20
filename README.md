@@ -4,7 +4,7 @@
 ## Getting Started
 
 ### Prerequisites
-- Ensure you have [Maven](https://maven.apache.org/install.html) installed on your machine.
+- Ensure you have [Maven](https://maven.apache.org/install.html) and [Java 17](https://www.oracle.com/java/technologies/downloads/#java17) installed on your machine.
 - An IDE of your choice (this project was developed using IntelliJ IDEA).
 
 ### Clone the Project
